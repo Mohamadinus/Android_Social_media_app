@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/drawable/ic_add.xml" value="0.2203125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/drawable/ic_addfriend.xml" value="0.1125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/drawable/ic_home.xml" value="0.2203125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/drawable/ic_notification.xml" value="0.2203125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/drawable/ic_profile.xml" value="0.2203125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/drawable/ic_search.xml" value="0.2203125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/layout/dashboard.xml" value="0.33" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/layout/fragment_add.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/layout/fragment_notification.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/layout/fragment_notification2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/layout/fragment_profile.xml" value="0.4462962962962963" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/layout/fragment_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/layout/notification_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/layout/profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/layout/searcg_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/layout/story_view.xml" value="0.5" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/ChatUp2/app/src/main/res/xml/tab.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

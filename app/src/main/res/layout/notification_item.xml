@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:diagonal="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profile"
+        android:layout_width="@dimen/_65mdp"
+        android:layout_height="@dimen/_65mdp"
+        android:padding="@dimen/_6mdp"
+        android:src="@drawable/photo2"
+        diagonal:civ_border_color="#56A5EC"
+        diagonal:civ_border_width="4dp"
+        diagonal:layout_constraintStart_toStartOf="@+id/linearLayout"
+        diagonal:layout_constraintTop_toTopOf="@+id/linearLayout"
+        tools:ignore="UnknownIdInLayout" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="8dp"
+        android:text="mohamadinus_bagwan mention you in a postmohamadinus_bagwan mention you in a post"
+        android:textSize="@dimen/_13font_mdp"
+        android:textColor="@color/black"
+        diagonal:layout_constraintBottom_toBottomOf="@+id/profile"
+        diagonal:layout_constraintEnd_toEndOf="parent"
+        diagonal:layout_constraintStart_toEndOf="@+id/profile"
+        diagonal:layout_constraintTop_toTopOf="@+id/profile"
+        diagonal:layout_constraintVertical_bias="0.306" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:text="TextView"
+
+        diagonal:layout_constraintStart_toStartOf="@+id/textView14"
+        diagonal:layout_constraintTop_toBottomOf="@+id/textView14" />
+
+    <View
+        android:id="@+id/view9"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        android:background="#635F5F"
+        diagonal:layout_constraintEnd_toEndOf="parent"
+        diagonal:layout_constraintHorizontal_bias="0.5"
+        diagonal:layout_constraintStart_toStartOf="parent"
+        diagonal:layout_constraintTop_toBottomOf="@+id/textView15" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
